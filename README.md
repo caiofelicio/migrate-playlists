@@ -24,7 +24,7 @@ Para **cada** uma das dependências acima, execute no terminal os seguintes coma
 
 Para se conectar no Spotify, será necessário criar um app em <https://developer.spotify.com/dashboard/> para ter acesso as suas credenciais necessárias para a autenticação na [API do Spotify](https://developer.spotify.com/documentation/web-api/).
 
-Para ver o passo-a-passo de como criar o app e pegar as credenciais [clique aqui](http://helphere.herokuapp.com/).
+Para ver o passo-a-passo de como criar o app e pegar as credenciais <a href="https://helphere.github.io/" target="_blank">clique aqui</a>.
 
 ***NÃO COMPARTILHE SUAS CREDENCIAIS COM NINGUÉM***
 
